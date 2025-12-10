@@ -112,6 +112,5 @@ This project is available under the MIT License. See `LICENSE` for details.
 
 ## Author / Contact
 
-Created by: Relx (replace with actual author)
+Created by: Relx
 
-If you want me to update the README (add screenshots, change wording, add run configurations or split into modules), tell me what you'd like and I will update it.
